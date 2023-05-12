@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a7c518e-1964-4749-b6e3-eae2fd201829" name="Changes" comment="new project">
+      <change afterPath="$PROJECT_DIR$/demoqa/components/components.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/pages/accordion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/pages/demoqa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/pages/elements_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/pages/form_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/pages/modal_dialogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_check_icon_demoqa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_go_to_page_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_login_form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_navigation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_seo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/test_visible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/tests_hw/test_check_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/tests_hw/test_page_dialogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa/tests/tests_hw/test_visible_hw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_home/components/components.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_home/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_home/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_home/pages/swag_labs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_home/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_home/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoqa_home/tests/test_check_swag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/4_hw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/4_hw_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/5_hw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/hw_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/test_hw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_trening/task_9_checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_trening/task_9_oop_1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2PgUsoPUGjWIPR5GlgeD5f8jHYc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demoqa_home/components" />
+      <recent name="$PROJECT_DIR$/demoqa_home" />
+      <recent name="$PROJECT_DIR$/demoqa/tests" />
+      <recent name="$PROJECT_DIR$/demoqa/pages" />
+      <recent name="$PROJECT_DIR$/demoqa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_hw.py">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ITMO_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_hw.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ITMO_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/home_work/test_hw.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_hw.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a7c518e-1964-4749-b6e3-eae2fd201829" name="Changes" comment="" />
+      <created>1683878427951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683878427951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
